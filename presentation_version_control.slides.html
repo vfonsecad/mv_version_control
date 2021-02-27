@@ -13298,19 +13298,32 @@ a.anchor-link {
 <p style="color:#000000;font-size:20px"> <a href="https://git-scm.com/">Git</a>, <a href="https://www.perforce.com/products/helix-core">Helix Core Perforce</a>, <a href="https://azure.microsoft.com/en-us/services/devops/server/">Microsoft Azure DevOps Server</a></p>
 </div>
 </div>
-</div></section><section>
+</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
-<p><p style="font-size:30px"> Here's how it works</p></p>
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><p style="font-size:30px"> Here's how it works! We start for the original version of the file</p></p>
 <div style="text-align: center;">
 <img src="illlustrations/correct_workflow_f1.png" width="40%">
+</div>
 </div>
 </div>
 </div></section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><p style="font-size:30px"> Each user creates a <b>branch</b> </p></p>
+<p><p style="font-size:30px">From the command line..</p></p>
+<ul style="color:#000000;font-size:20px">
+    <li><b>git clone "https://github.com/username/repository.git"</b> to start from an existing repository</li>
+    <li><b>git init</b> to start a local repository</li>
+</ul>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><p style="font-size:30px"> Each user gets their own independent copy </p></p>
 <div style="text-align: center;">
 <img src="illlustrations/correct_workflow_f2.png" width="40%">
 </div>
@@ -13320,7 +13333,18 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><p style="font-size:30px"> Collaborators make their <b>modifications</b> </p>
+<p><p style="font-size:30px">From the command line..</p></p>
+<ul style="color:#000000;font-size:20px">
+    <li><b>git checkout -b "NEW_BRANCH"</b> to create a new branch locally</li>
+    <li><b>git checkout "EXISTING_BRANCH"</b> to track an existing branch</li>
+</ul>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><p style="font-size:30px"> Collaborators make their modifications </p>
 <img src="illlustrations/correct_workflow_f3.png" width="40%" class="center"></p>
 
 </div>
@@ -13329,7 +13353,19 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><p style="font-size:30px"> When Ana finishes her work, we <b>merge</b> her branch </p></p>
+<p><p style="font-size:30px">After they finish to work on their files, from the command line..</p></p>
+<ul style="color:#000000;font-size:20px">
+    <li><b>git add .</b> to stage all modified files</li>
+    <li><b>git commit -m "commit message"</b> to "confirm" the files to be tracked with a descriptive message</li>
+    <li><b>git push origin BRANCH_NAME</b> to send changes to the remote repository in your own branch without modifying main</li>
+</ul>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><p style="font-size:30px"> When Ana finishes, her work will update the existing old version of the file</p></p>
 <div style="text-align: center;">
 <img src="illlustrations/correct_workflow_f4.png" width="40%">
 </div>
@@ -13339,26 +13375,45 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><p style="font-size:30px"> When Bob finishes her work, we <b>merge</b> his branch, leading us to the final version of the document </p></p>
+<p><p style="font-size:30px">From the command line..</p></p>
+<ul style="color:#000000;font-size:20px">
+    <li><b>git checkout main</b> to move to the main branch</li>
+    <li><b>git merge BRANCH_NAME</b> to merge her branch to the main</li>
+    <li><b>git push origin main</b> to send changes to the remote repository in main</li>
+</ul>
+<p style="font-size:25px">Optional</p>
+<ul style="color:#000000;font-size:20px">
+    <li><b>git branch -d BRANCH_NAME</b> to delete <em>locally</em> the branch you won't use anymore</li>
+    <li><b>git push origin :BRANCH_NAME</b> to delete the branch you won't use anymore <em>remotely</em></li>
+</ul>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><p style="font-size:30px"> When Bob finishes her work, we update the existing file, leading us to the final version of the document</p></p>
 <p><p style="font-size:25px"> Everything in <b>one single file</b>! </p></p>
 <div style="text-align: center;">
 <img src="illlustrations/correct_workflow_f5.png" width="40%" class="center">
 </div>
 </div>
 </div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><p style="font-size:30px">To summarize</p> 
+<img src="illlustrations/local_remote_summary.png" width="15%" style="float:right;"></p>
+<ul style="color:#000000; font-size:20px; float: left; max-width: 800px; border-right:solid 1px;">
+    <li>You use <b>git push</b> and <b>git pull</b> to communicate between local and remote repository</li>
+    <li>Every time you start working on something new, you create a new branch (<b>git checkout -b NEW_BRANCH</b>)</li>
+    <li>You <b>git add .</b> the modified files and you <b>git commit</b> every time you need a "checkpoint"</li>
+    <li>When you are done working on a "feature" you <b>git merge</b> the branch with main</li>
+    <li>If you don't need the branch anymore <b>git branch -d(elete)</b> the branch</li>
+</ul>
 </div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span> 
-</pre></div>
-
-    </div>
 </div>
-</div>
-
 </div></section></section>
 </div>
 </div>
