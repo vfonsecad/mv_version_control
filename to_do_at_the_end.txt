@@ -1,5 +1,0 @@
-set transition of slides to none
-center images from html: remove <div class="text_cell_render border-box-sizing rendered_html">
-definition of repository
-expand space of slide
-Where is git managed?
