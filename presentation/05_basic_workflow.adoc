@@ -23,3 +23,7 @@ Create a **branch** for every feature you work on; work and **add** the modified
 image::illlustrations/rep_workflow_3.PNG[basic workflow 1]
 
 When you are done with a feature, **merge** the branch back with main
+
+== Time to try out Git
+
+Get the project folder and a Git manager (command window or GUI)
