@@ -1,2 +1,46 @@
 
 == What is version control?
+The Life‑Changing Magic of Tidying Up. Marie Kondo
+
+- Most robust paradigm for project developement: structure and organization management
+- System that allows to effectively track changes and merge files
+- It allows to connect project developers
+- Projects can now live in many different places at the same time without conflict: locally (your computer folder) and remotely
+- Version control is explained, applied and mostly discussed in the context of software development, but it can be used in the development of any well-structured digital project: e.g. collaborative reports, academic publications, etc.
+
+The invisible hand of project development
+
+[%notitle]
+=== Illustrating correct workflow
+Here's how it works! We start with the original version of the file
+
+[.stretch]
+image::illlustrations/correct_workflow_fr_1.png[correctworkflow1]
+
+[%notitle]
+=== Illustrating correct workflow
+Each user gets their own version
+
+[.stretch]
+image::illlustrations/correct_workflow_fr_2.png[correctworkflow2]
+
+[%notitle]
+=== Illustrating correct workflow
+Collaborators make their modifications
+
+[.stretch]
+image::illlustrations/correct_workflow_fr_3.png[correctworkflow3]
+
+[%notitle]
+=== Illustrating correct workflow
+When Ana finishes, her work will update the existing old version of the file
+
+[.stretch]
+image::illlustrations/correct_workflow_fr_4.png[correctworkflow4]
+
+[%notitle]
+=== Illustrating correct workflow
+When Bob finishes his work, we update the existing file, leading us to the final version of the document. Everything in one single file!
+
+[.stretch]
+image::illlustrations/correct_workflow_fr_5.png[correctworkflow5]
