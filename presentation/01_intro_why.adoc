@@ -33,3 +33,11 @@ You or someone else has to put them all together manually and probably with a lo
 
 [.stretch]
 image::illlustrations/problematic_workflow4.png[problematic_workflow4]
+
+=== Now what?: A better approach
+- Define and design project with structure: parts and how they interact
+- Finally avoid thousands of versions and their storage for the same file(s)
+- Document changes as the files are built so you know what you've done and can go back to previous versions
+- We're never really working alone. Collaborate effectively with other people when making projects
+
+"Never lose control on what you're doing" - MV
