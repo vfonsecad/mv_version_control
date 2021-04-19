@@ -15,3 +15,6 @@
 - Don't panic, you can always open branches and reset to previous commits when things go really wrong
 
 Be curious, Git is your friend to keep control!
+
+== git thank-you!
+Contact us: https://marcodallavecchia.github.io/biologistsadventure/[Marco] and https://twitter.com/valefonsecadiaz[Valeria]
