@@ -6,7 +6,7 @@
 
 = Version control with Git: Fundamentals
 // images settings
-:imagesdir: assets/images/
+:imagesdir: assets/
 
 //title slide content
 by: https://marcodallavecchia.github.io/biologistsadventure/[Marco] and https://twitter.com/valefonsecadiaz[Valeria]
