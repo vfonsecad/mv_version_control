@@ -1,2 +1,35 @@
 
 == Why version control?
+Has this ever happened to you?
+
+[%notitle]
+=== Illustrating problematic workflow
+The project is the production of a report and you start it
+
+Natural instinct : create the first version naming it "v1"
+
+[.stretch]
+image::illlustrations/problematic_workflow1.png[problematic_workflow1]
+
+[%notitle]
+=== Illustrating problematic workflow
+You send it to Ana and Bob for their parts and revision, while you keep working on it also
+
+Natural instinct : Ana and Bob produce their part and name it accordingly to avoid confusion
+
+[.stretch]
+image::illlustrations/problematic_workflow2.png[problematic_workflow2]
+
+[%notitle]
+=== Illustrating problematic workflow
+The project now exists in 3 different versions, probably all of them at different stages of progress
+
+[.stretch]
+image::illlustrations/problematic_workflow3.png[problematic_workflow3]
+
+[%notitle]
+=== Illustrating problematic workflow
+You or someone else has to put them all together manually and probably with a lot of confusion prone to errors!
+
+[.stretch]
+image::illlustrations/problematic_workflow4.png[problematic_workflow4]
