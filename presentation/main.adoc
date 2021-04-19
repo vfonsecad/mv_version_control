@@ -1,0 +1,26 @@
+// aesthetics-related settings
+:revealjs_theme: white
+//:customcss: mv_theme.css
+// :revealjs_parallaxBackgroundImage: assets/images/network_background.jpg
+// :revealjs_parallaxBackgroundSize: 3500px 2300px
+
+= Version control with Git: Fundamentals
+// images settings
+:imagesdir: assets/images/
+
+//title slide content
+by: https://marcodallavecchia.github.io/biologistsadventure/[Marco] and https://twitter.com/valefonsecadiaz[Valeria]
+
+// START OF SLIDES
+// it needs to have empty line between include statements
+include::01_intro_why.adoc[]
+
+include::02_intro_what.adoc[]
+
+include::03_git_definition.adoc[]
+
+include::04_git_examples.adoc[]
+
+include::05_basic_workflow.adoc[]
+
+include::06_good_practices.adoc[]
