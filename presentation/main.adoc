@@ -1,12 +1,12 @@
 // aesthetics-related settings
 :revealjs_theme: white
-//:customcss: mv_theme.css
+:customcss: mv_theme.css
 // :revealjs_parallaxBackgroundImage: assets/images/network_background.jpg
-// :revealjs_parallaxBackgroundSize: 3500px 2300px
+:revealjs_parallaxBackgroundSize: 3500px 2300px
 
 = Version control with Git: Fundamentals
 // images settings
-:imagesdir: assets/images/
+:imagesdir: assets/
 
 //title slide content
 by: https://marcodallavecchia.github.io/biologistsadventure/[Marco] and https://twitter.com/valefonsecadiaz[Valeria]

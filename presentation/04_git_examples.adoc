@@ -1,2 +1,61 @@
-
+[.columns]
 == Examples / Applications of Git and Github
+
+[.column.is-half]
+--
+**Python packages development:** packages stored in remote repositories to distribute them with conda
+
+image::images/isnumber_python_conda.jpg[is number conda, 800, 350]
+--
+[.column.is-half]
+--
+image::images/isnumber_python_github.jpg[is number github, 800, 350]
+--
+
+[%notitle.columns]
+=== Examples / Applications of Git and Github
+
+[.column.is-half]
+--
+**R packages development:** packages stored in remote repositories to distribute them with install_github
+
+image::images/ggplot2_github_repo.jpg[ggplot2 github, 800, 350]
+--
+[.column.is-half]
+--
+image::images/ggplot2_readme.jpg[ggplot2 github, 800, 350]
+--
+
+[%notitle.columns]
+=== Examples / Applications of Git and Github
+
+[.column.is-half]
+--
+**Personal projects:** publications, collaborative academic projects, coding challenges, hobbies, ...
+
+image::images/mv_computer1.jpg[Bob's local computer, 800, 350]
+--
+[.column.is-half]
+--
+image::images/mv_github_repo.jpg[Remote, 800, 350]
+--
+[.column.is-half]
+--
+image::images/mv_computer2.jpg[Ana's local computer, 800, 350]
+--
+
+[%notitle.columns]
+=== Examples / Applications of Git and Github
+
+[.column.is-half]
+--
+**Create blogs or personal websites:**
+
+image::images/website_github.jpg[github repo website, 800, 350]
+--
+[.column.is-half]
+--
+image::images/website_github2.jpg[website, 800, 350]
+--
+
+
