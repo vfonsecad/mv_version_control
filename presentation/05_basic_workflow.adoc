@@ -1,2 +1,29 @@
 
 == Basic Workflow
+
+
+Let's check together how to work properly and cleanly with Git
+
+=== Start a repository
+
+image::illlustrations/rep_workflow_1.PNG[basic workflow 1]
+
+Either **clone** an existing remote repository or **create** a new one locally and push it remotely
+
+=== While working on the project
+
+image::illlustrations/rep_workflow_2.PNG[basic workflow 1]
+
+**Fetch** new information to see what changed remotely
+
+Create a **branch** for every feature you work on; work and **add** the modified files, then **commit** those changes; finally **push** them to the remote branch
+
+=== Merging
+
+image::illlustrations/rep_workflow_3.PNG[basic workflow 1]
+
+When you are done with a feature, **merge** the branch back with main
+
+== Time to try out Git
+
+Get the project folder and a Git manager (command window or GUI)

@@ -3,6 +3,10 @@
 :customcss: mv_theme.css
 // :revealjs_parallaxBackgroundImage: assets/images/network_background.jpg
 :revealjs_parallaxBackgroundSize: 3500px 2300px
+:revealjs_width: 1500
+:revealjs_transition: none
+:revealjs_slideNumber: true
+:bl: pass:[ +]
 
 = Version control with Git: Fundamentals
 // images settings
@@ -10,6 +14,16 @@
 
 //title slide content
 by: https://marcodallavecchia.github.io/biologistsadventure/[Marco] and https://twitter.com/valefonsecadiaz[Valeria]
+
+++++
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+
+++++
+
 
 // START OF SLIDES
 // it needs to have empty line between include statements
@@ -24,3 +38,5 @@ include::04_git_examples.adoc[]
 include::05_basic_workflow.adoc[]
 
 include::06_good_practices.adoc[]
+
+include::07_closing.adoc[]

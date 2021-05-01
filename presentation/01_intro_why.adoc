@@ -1,2 +1,53 @@
 
 == Why version control?
+Has this ever happened to you?
+
+[%notitle]
+=== Illustrating problematic workflow
+The project is the production of a report and you start it
+{bl}
+Natural instinct : create the first version naming it "v1"
+{bl}
+
+[.stretch]
+image::illlustrations/problematic_workflow1.png[problematic_workflow1]
+
+[%notitle]
+=== Illustrating problematic workflow
+You send it to Ana and Bob for their parts and revision, while you keep working on it also
+{bl}
+Natural instinct : Ana and Bob produce their part and name it accordingly to avoid confusion
+{bl}
+
+[.stretch]
+image::illlustrations/problematic_workflow2.png[problematic_workflow2]
+
+[%notitle]
+=== Illustrating problematic workflow
+The project now exists in 3 different versions, probably all of them at different stages of progress
+{bl}
+{bl}
+
+[.stretch]
+image::illlustrations/problematic_workflow3.png[problematic_workflow3]
+
+[%notitle]
+=== Illustrating problematic workflow
+You or someone else has to put them all together manually and probably with a lot of confusion prone to errors!
+{bl}
+{bl}
+
+[.stretch]
+image::illlustrations/problematic_workflow4.png[problematic_workflow4]
+
+=== Now what?: A better approach
+
+[.unorderedlist]
+--
+* Define and design project with structure: parts and how they interact
+* Finally avoid thousands of versions and their storage for the same file(s)
+* Document changes as the files are built so you know what you've done and can go back to previous versions
+* We're never really working alone. Collaborate effectively with other people when making projects
+--
+
+//"Never lose control on what you're doing" - MV
