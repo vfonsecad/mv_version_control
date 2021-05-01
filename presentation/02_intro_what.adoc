@@ -12,9 +12,9 @@
 
 {bl}
 {bl}
-Version control is mostly used in the context of software development..
+Version control is mostly used in the context of software development
 
-but it can be used in *the development of any well-structured digital project*: e.g. collaborative reports, academic publications, etc.
+But it can be used in *the development of any well-structured digital project*: e.g. collaborative reports, academic publications, etc.
 
 
 [%notitle]

@@ -4,28 +4,42 @@ Version control systems::
 https://git-scm.com/[Git], https://www.mercurial-scm.org/wiki/QuickStart[Mercurial], https://subversion.apache.org/[SVN Apache Subversion]
 
 Managers of remote repositories::
-- Github
-- Bitbucket
-- Gitlab
-- SourceForge
-- Launchpad
+[.unorderedlist]
+--
+* Github
+* Gitlab
+* Bitbucket
+* SourceForge
+* Launchpad
+--
+
+
+=== Git
+
+[.textbox]
+--
+[%step.strike]
+*Git* is an _unpleasant or contemptible person_
+
+[%step]
+But, it's also the most used *open source version control system*
+--
+
 
 [.columns]
 === Git
 
-Git can be used as a version control system to manage your projects in their local and remote versions
-
-The remote manager provides the interface to use Git (e.g. Github provides a user friendly interface to commit, merge, etc.)
-
-To manage the local version of your repository, you can use Git through a command window or rely on Git user friendly interfaces
-
 [.column.is-half]
 --
-image::images/git_terminal.png[git_terminal]
+Use Git through a command window
+
+image::images/git_terminal.png[git terminal, 800, 400]
 --
 
 [.column.is-half]
 --
-image::images/git_gui.PNG[git_GUI]
+Use Git through user friendly interfaces
+
+image::images/git_gui.PNG[git_GUI, 800, 400]
 --
 
