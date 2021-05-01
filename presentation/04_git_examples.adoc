@@ -12,7 +12,7 @@ image::images/isnumber_python_github.jpg[is number github, 800, 400]
 image::images/isnumber_python_conda.jpg[is number conda, 800, 530]
 --
 
-[%notitle.columns]
+[%notitle.columns.is-vcentered]
 === Examples / Applications of Git and Github
 
 [.column.is-half]
@@ -26,7 +26,7 @@ image::images/ggplot2_github_repo.jpg[ggplot2 github, 800, 400]
 image::images/ggplot2_readme.jpg[ggplot2 github, 800, 440]
 --
 
-[%notitle.columns]
+[%notitle.columns.is-vcentered]
 === Examples / Applications of Git and Github
 
 [.column.is-half]
@@ -41,7 +41,7 @@ image::images/mv_computer2.jpg[Ana's local computer, 600, 300]
 image::images/mv_github_repo.jpg[Remote, 800, 350]
 --
 
-[%notitle.columns]
+[%notitle.columns.is-vcentered]
 === Examples / Applications of Git and Github
 
 [.column.is-half]
@@ -55,7 +55,7 @@ image::images/mv_github_repo.jpg[Remote, 800, 350]
 --
 [.column.is-half]
 --
-image::images/website_github2.jpg[website, 800, 500]
+image::images/website_github2.png[website]
 --
 
 
