@@ -5,7 +5,8 @@
 :revealjs_parallaxBackgroundSize: 3500px 2300px
 :revealjs_width: 1500
 :revealjs_transition: none
-:revealjs_slideNumber: true
+:revealjs_slideNumber: c/t
+
 :bl: pass:[ +]
 
 = Version control with Git: Fundamentals
