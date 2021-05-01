@@ -1,18 +1,25 @@
 
-== Good practices for Git
-- Experiment a lot with mock repositories! Make mistakes and read through the errors on your testing
-- Define a first solid structure of your project to start a repository
-- Add a readme file in the repository with detailed description about the project
-- Document yourself about the use of branching and merging in Git.
-- Learn to read the communication Git returns when you run commands such as pulling and pushing
+== Good practices for Git pt.1
+[.unorderedlist]
+--
+* Define a *solid structure* of your project before starting a repository
+* Add a *readme file* in the repository with _detailed_ description about the project
+* Learn to *read the Git outputs* when you run commands such as pulling and pushing
+* Make mistakes and *read through the errors* you are going to make
+--
 
-=== Good practices for Git
-- Create effective branches. Think about the feature that a branch is going to tackle and how you expect to merge the changes into the main branch
-- Every time that you enter your repository locally,   git fetch   and   git pull   before doing anything else!
-- Commit frequently and push accordingly
-- If an unexpected result happened, check   git log   to revise the commit history
+=== Good practices for Git pt.2
+[.unorderedlist]
+--
+* *Create effective branches*: what feature? which contributor?
+* Before you start working: git fetch and git pull/merge to *work on the last version*
+* *Commit frequently and descriptively*, then push accordingly
+* Forgot what you are doing? Check git status to *display in which stage you are*
+* Something unexpected? Check git log to *revise the commit history*
+--
 
-- Don't panic, you can always open branches and reset to previous commits when things go really wrong
-
-Be curious, Git is your friend to keep control!
-
+[.unorderedlist]
+--
+* *Don't panic*, you can always open branches and reset to previous commits when things go really wrong
+* *Be curious*, Git is your friend to keep control!
+--
