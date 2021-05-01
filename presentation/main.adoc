@@ -3,6 +3,8 @@
 :customcss: mv_theme.css
 // :revealjs_parallaxBackgroundImage: assets/images/network_background.jpg
 :revealjs_parallaxBackgroundSize: 3500px 2300px
+:revealjs_width: 1600
+
 
 = Version control with Git: Fundamentals
 // images settings
