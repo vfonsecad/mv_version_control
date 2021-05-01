@@ -9,7 +9,7 @@ image::images/isnumber_python_github.jpg[is number github, 800, 400]
 --
 [.column.is-half]
 --
-image::images/isnumber_python_conda.jpg[is number conda, 800, 500]
+image::images/isnumber_python_conda.jpg[is number conda, 800, 530]
 --
 
 [%notitle.columns]

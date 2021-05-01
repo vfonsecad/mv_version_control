@@ -18,8 +18,6 @@
 * Something unexpected? Check git log to *revise the commit history*
 --
 
-[.unorderedlist]
---
-* *Don't panic*, you can always open branches and reset to previous commits when things go really wrong
-* *Be curious*, Git is your friend to keep control!
---
+*Don't panic*, you can always open branches and reset to previous commits when things go really wrong
+
+*Be curious*, Git is your friend to keep control!
