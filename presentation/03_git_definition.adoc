@@ -29,13 +29,3 @@ image::images/git_terminal.png[git_terminal]
 image::images/git_gui.PNG[git_GUI]
 --
 
-=== Version control Git basic jargon
-- Repository (repo): project directory (project folder). This directory is version-controlled
-- Local repo: the version of the repository that lives in a local machine
-- Remote repo: the version of the repository that lives in a remote machine or server
-
-- Commit: a documented checkpoint of the status of the repository
-- Branch: a pointer that tracks a version of the repo. Several branches can be created to develop separately different parts of the project which can later be merged to a main branch. https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell[See here more details]
-
-- Push: send local repository branch to remote repository branch
-- Pull: receive remote repository branch into local repository branch

@@ -33,9 +33,9 @@ include::02_intro_what.adoc[]
 
 include::03_git_definition.adoc[]
 
-include::04_git_examples.adoc[]
-
 include::05_basic_workflow.adoc[]
+
+include::04_git_examples.adoc[]
 
 include::06_good_practices.adoc[]
 
