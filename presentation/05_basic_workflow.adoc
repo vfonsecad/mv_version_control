@@ -2,7 +2,17 @@
 == Basic Workflow
 
 
-Let's check together how to work properly and cleanly with Git
+How can we properly and cleanly work with Git?
+Time to try out
+
+=== Start a repository: basic jargon
+
+[.unorderedlist]
+--
+* *Repository (repo):* project directory (project folder). This directory is version-controlled
+* *Local repo:* the version of the repository that lives in a local machine
+* *Remote repo:* the version of the repository that lives in a remote machine or server
+--
 
 === Start a repository
 
@@ -10,13 +20,30 @@ image::illlustrations/rep_workflow_1.PNG[basic workflow 1]
 
 Either **clone** an existing remote repository or **create** a new one locally and push it remotely
 
+=== While working on the project: basic jargon
+
+[.unorderedlist]
+--
+* *Fetch*: download remote history to your local repository to *see* what others have done.
+* *Branch*: a pointer that tracks a version of the repo. Several branches can be created to develop separately different parts of the project which can later be merged to a main branch. https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell[See here more details]
+* *Pull*: download remote branch to your local branch to *integrate* what others have done. _(pull = fetch + merge)_
+* *Commit*: a documented checkpoint of the status of the repository
+* *Push*: send local repository branch to remote repository branch
+--
+
 === While working on the project
 
 image::illlustrations/rep_workflow_2.PNG[basic workflow 1]
 
-**Fetch** new information to see what changed remotely
+//**Fetch** new information to see what changed remotely; *pull* remote branch into local branch if existing or create a **branch** for every feature you work on; *checkout* to the branch; work and **add** the modified files, then **commit** those changes; finally **push** the local branch to the remote branch
 
-Create a **branch** for every feature you work on; work and **add** the modified files, then **commit** those changes; finally **push** them to the remote branch
+=== Merging: basic jargon
+
+[.unorderedlist]
+--
+* *Merge*: *integrate* one branch into another branch
+* *Merge conflict*: an inconsistency between 2 branches that were merged. Same files have different changes at the same locations or lines. When a merge conflict occurs, *solve the conflict*, *add* and *commit*.
+--
 
 === Merging
 
@@ -24,6 +51,3 @@ image::illlustrations/rep_workflow_3.PNG[basic workflow 1]
 
 When you are done with a feature, **merge** the branch back with main
 
-== Time to try out Git
-
-Get the project folder and a Git manager (command window or GUI)
