@@ -1,4 +1,0 @@
-add this to html produced by the jupyter notebook at Reveal.initialize
-           transition: "none",
-	    width: 1100,
-            height: 600,
