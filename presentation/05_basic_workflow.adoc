@@ -21,6 +21,10 @@ image::illlustrations/rep_workflow_1.PNG[basic workflow 1]
 
 Either **clone** an existing remote repository or **create** a new one locally and push it remotely
 
+=== Start a repository pt.2
+
+video::videos/start_a_repo.mp4[title="How to start a repository video tutorial. Video only available during the workshop", options="autoplay,loop"]
+
 === While working on the project: basic jargon
 
 [.unorderedlist]
@@ -37,6 +41,10 @@ Either **clone** an existing remote repository or **create** a new one locally a
 image::illlustrations/rep_workflow_2.PNG[basic workflow 1]
 
 //**Fetch** new information to see what changed remotely; *pull* remote branch into local branch if existing or create a **branch** for every feature you work on; *checkout* to the branch; work and **add** the modified files, then **commit** those changes; finally **push** the local branch to the remote branch
+
+=== While working on the project pt.2
+
+video::videos/while_working.mp4[title="Good workflow with Git video tutorial. Video only available during the workshop", options="autoplay,loop"]
 
 === Merging: basic jargon
 
