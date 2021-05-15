@@ -35,3 +35,6 @@ presentation/.bundle/*
 ## html
 
 presentation/main.html
+
+## Video folder
+presentation/assets/videos*
