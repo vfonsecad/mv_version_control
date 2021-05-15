@@ -5,7 +5,7 @@ These are examples of the tasks that you can pick up.
 Are you more conservative and want to start slow?
 
 task number |**branch name** | Description of task
---- | ---
+--- | --- | ---
 1 |**py_create_data_YOURNAME** | change the number of data points from 100 to 5000 and increase the standard deviation of the error from 0.1 to 10
 2 |**py_data_analysis_YOURNAME** |  In exploratory analysis, change the figure title to capital letters, change the number of bins in the histogram from 20 to 100 and delete the grid command from the figures and change the color of the scatter to "orange"
 3 |**py_linear_regression_YOURNAME** |  In linear regression, change the figure title to capital letters, delete the grid, change the color of the scatter to “orange” and increase the fontsize of the legend to 20
