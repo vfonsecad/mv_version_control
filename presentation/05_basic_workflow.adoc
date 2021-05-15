@@ -3,7 +3,8 @@
 
 
 How can we properly and cleanly work with Git?
-Time to try out
+
+*Time to try out!*
 
 === Start a repository: basic jargon
 

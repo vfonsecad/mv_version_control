@@ -5,7 +5,7 @@
 [.unorderedlist]
 --
 * The most robust *paradigm* to _structure_ and _organize_ your projects
-* A *System* that allows to effectively _track changes_ and _merge files_
+* A *system* that allows to effectively _track changes_ and _merge files_
 * A *hub* to _connect_ project developers
 * A *platform* to _share_ locally (your computer folder) and remotely your projects
 --
@@ -21,7 +21,7 @@ But it can be used in *the development of any well-structured digital project*: 
 === Illustrating correct workflow
 *Here's how it works!*
 {bl}
-We start with the original version of the file.
+We start with the original version of the file. Each *feature* is colored differently.
 
 [.stretch]
 image::illlustrations/correct_workflow_fr_1.png[correctworkflow1]
@@ -37,7 +37,7 @@ image::illlustrations/correct_workflow_fr_2.png[correctworkflow2]
 
 [%notitle]
 === Illustrating correct workflow
-They make their modifications.
+They make their modifications. *Each collaborator will work only on a previously agreed feature.*
 {bl}
 {bl}
 

@@ -16,7 +16,7 @@ image::illlustrations/problematic_workflow1.png[problematic_workflow1]
 === Illustrating problematic workflow
 *You send it to Ana and Bob for their parts and revision, while you also keep working on it.*
 
-_Natural instinct_ : Ana and Bob work on their part and name it something different.
+_Natural instinct_ : Ana and Bob work on their parts and name them something different.
 {bl}
 
 [.stretch]

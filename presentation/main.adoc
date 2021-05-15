@@ -1,8 +1,12 @@
+// TO COMPILE THE PRESENTATION TO HTML
+// bundle exec asciidoctor-revealjs -a revealjsdir=https://cdn.jsdelivr.net/npm/reveal.js@3.9.2 main.adoc
+
+
 // aesthetics-related settings
 :revealjs_theme: white
 :customcss: mv_theme.css
-// :revealjs_parallaxBackgroundImage: assets/images/network_background.jpg
-:revealjs_parallaxBackgroundSize: 3500px 2300px
+:revealjs_parallaxBackgroundImage: assets/images/background.jpg
+:revealjs_parallaxBackgroundSize: 1680px 1050px
 :revealjs_width: 1500
 :revealjs_transition: none
 :revealjs_slideNumber: c/t
