@@ -4,19 +4,19 @@ These are examples of the tasks that you can pick up.
 
 Are you more conservative and want to start slow?
 
-**branch name** | Description of task
+task number |**branch name** | Description of task
 --- | ---
-**py_create_data** | change the number of data points from 100 to 5000 and increase the standard deviation of the error from 0.1 to 10
-**py_data_analysis** |  In exploratory analysis, change the figure title to capital letters, change the number of bins in the histogram from 20 to 100 and delete the grid command from the figures and change the color of the scatter to "orange"
-**py_linear_regression** |  In linear regression, change the figure title to capital letters, delete the grid, change the color of the scatter to “orange” and increase the fontsize of the legend to 20
-**py_modify_script** |  change the finish print statement from "done" to "this was all done by (your name) and no one else" replacing (your name) by your actual name
-**abstract_latex** | replace a sentence. Replace a few sentences. Replace the entire text. etc.
-**intro_latex** | add paragraphs, make another list about "These are some of the uses of Git:", replace the entire text. etc.
-**materials_methods_latex** | add a paragraph describing the programming languages that you like or disklike and why.
-**results_latex** | add a a deep explanation of what a histogram is or about what linear regression is.
-**conclusions_latex**| how much would you recommend people to learn Git?
-**acknowledgment_latex**| do you wanna write an thank you statement?
-**references_latex** | we don't need academic references, so you can list a bunch of things you recommend to people to check out!
+1 |**py_create_data_YOURNAME** | change the number of data points from 100 to 5000 and increase the standard deviation of the error from 0.1 to 10
+2 |**py_data_analysis_YOURNAME** |  In exploratory analysis, change the figure title to capital letters, change the number of bins in the histogram from 20 to 100 and delete the grid command from the figures and change the color of the scatter to "orange"
+3 |**py_linear_regression_YOURNAME** |  In linear regression, change the figure title to capital letters, delete the grid, change the color of the scatter to “orange” and increase the fontsize of the legend to 20
+4 |**py_modify_script_YOURNAME** |  change the finish print statement from "done" to "this was all done by (your name) and no one else" replacing (your name) by your actual name
+5 |**tex_abstract_YOURNAME** | replace a sentence. Replace a few sentences. Replace the entire text. etc.
+6 |**tex_intro_YOURNAME** | add paragraphs, make another list about "These are some of the uses of Git:", replace the entire text. etc.
+7 |**tex_materials_methods_YOURNAME** | add a paragraph describing the programming languages that you like or disklike and why.
+8 |**tex_results_YOURNAME** | add a a deep explanation of what a histogram is or about what linear regression is.
+9 |**tex_conclusions_YOURNAME**| how much would you recommend people to learn Git?
+10|**tex_acknowledgment_YOURNAME**| do you wanna write an thank you statement?
+11|**tex_references_YOURNAME** | we don't need academic references, so you can list a bunch of things you recommend to people to check out!
 
 Are you a more advanced user of python and/or latex?
 
