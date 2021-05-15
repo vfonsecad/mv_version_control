@@ -42,11 +42,22 @@ This will probably lead to a lot of confusion and to errors!
 [.stretch]
 image::illlustrations/problematic_workflow4.png[problematic_workflow4]
 
-[%notitle]
+[%notitle.columns.is-vcentered]
 === Did this happen to you before??
+
+[.column.is-half]
+--
+++++
+<iframe src="https://directpoll.com/v?XDVhEtZqP58g7WqzFE1GPx9xVzgEi" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+++++
+--
+
+[.column.is-half]
+--
 ++++
 <iframe src="https://directpoll.com/r?XDbzPBdVAP0I8aTpWC9bjLSWedWrJe3wc2TuLsK" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ++++
+--
 
 === Now what?: A better approach
 
