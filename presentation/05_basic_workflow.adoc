@@ -25,6 +25,12 @@ Either **clone** an existing remote repository or **create** a new one locally a
 
 video::videos/start_a_repo.mp4[title="How to start a repository video tutorial. Video only available during the workshop", options="autoplay,loop"]
 
+=== Quiz time!
+++++
+<iframe src="https://directpoll.com/r?XDbzPBdXCR2KAcVrYEBdlNUYgfYtLg5ye4VwNuM" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+++++
+
+
 === While working on the project: basic jargon
 
 [.unorderedlist]
@@ -46,6 +52,12 @@ image::illlustrations/rep_workflow_2.PNG[basic workflow 1]
 
 video::videos/while_working.mp4[title="Good workflow with Git video tutorial. Video only available during the workshop", options="autoplay,loop"]
 
+=== Quiz time!
+++++
+<iframe src="https://directpoll.com/r?XDbzPBdYDS3LBdWsZFCemOVZhgZuMh6zf5WxOvN
+" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+++++
+
 === Merging: basic jargon
 
 [.unorderedlist]
@@ -59,4 +71,16 @@ video::videos/while_working.mp4[title="Good workflow with Git video tutorial. Vi
 image::illlustrations/rep_workflow_3.PNG[basic workflow 1]
 
 When you are done with a feature, **merge** the branch back with main
+
+
+=== Quiz time!
+++++
+<iframe src="https://directpoll.com/r?XDbzPBdZET4MCeXtaGDfnPWaihavNi70g6XyPwO" width="1200"
+height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+++++
+
+=== Quiz time!
+++++
+<iframe src="https://directpoll.com/r?XDbzPBdaFU5NDfYubHEgoQXbjibwOj81h7YzQxP" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+++++
 

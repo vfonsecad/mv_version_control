@@ -61,3 +61,9 @@ Everything in *one single file*!
 
 [.stretch]
 image::illlustrations/correct_workflow_fr_5.png[correctworkflow5]
+
+[%notitle]
+=== Did you know??!
+++++
+<iframe src="https://directpoll.com/r?XDbzPBdWBQ1J9bUqXDAckMTXfeXsKf4xd3UvMtL" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+++++
