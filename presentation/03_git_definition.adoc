@@ -13,16 +13,39 @@ Managers of remote repositories::
 * Launchpad
 --
 
+[%notitle.columns.is-vcentered]
+=== Did you know??!
+
+[.column.is-half]
+--
+++++
+<iframe src="https://directpoll.com/v?XDVhEtZqP58g7WqzFE1GPx9xVzgEi" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+++++
+--
+
+[.column.is-half]
+--
+++++
+<iframe src="https://directpoll.com/r?XDbzPBdWBQ1J9bUqXDAckMTXfeXsKf4xd3UvMtL" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+++++
+--
+
 
 === Git
 
 [.textbox]
 --
-[%step.strike]
+[%step]
 *Git* is an _unpleasant or contemptible person_
 
 [%step]
-But, it's also the most used *open source version control system*
+[quote, Linus Torvalds, Creator of Linux]
+____
+"I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."
+____
+
+[%step]
+It became the most used *open source version control system*
 --
 
 
