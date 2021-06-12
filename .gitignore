@@ -27,13 +27,12 @@ report.pdf
 Gemfile
 Gemfile.lock
 
-
 ## Bundler files
 presentation/.bundle/*
+presentation/reveal.js/*
 
 
 ## html
-
 presentation/main.html
 
 ## Video folder
