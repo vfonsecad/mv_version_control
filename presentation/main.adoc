@@ -5,8 +5,8 @@
 // aesthetics-related settings
 :revealjs_theme: white
 :customcss: mv_theme.css
-:revealjs_parallaxBackgroundImage: assets/images/background.jpg
-:revealjs_parallaxBackgroundSize: 1680px 1050px
+:revealjs_parallaxBackgroundImage: assets/images/background-bg.jpg
+:revealjs_parallaxBackgroundSize: 3101px 1772px
 :revealjs_width: 1500
 :revealjs_transition: none
 :revealjs_slideNumber: c/t
