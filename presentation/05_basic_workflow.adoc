@@ -46,38 +46,23 @@ image::illlustrations/rep_workflow_2.PNG[basic workflow 1]
 
 video::videos/while_working.mp4[title="Good workflow with Git video tutorial. Video only available during the workshop", options="autoplay,loop"]
 
-[%notitle.columns.is-vcentered]
-=== Quiz time!
-
-[.column.is-half]
---
-++++
-<iframe src="https://directpoll.com/v?XDVhEtZqP58g7WqzFE1GPx9xVzgEi" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-++++
---
-
-[.column.is-half]
---
-++++
-<iframe src="https://directpoll.com/r?XDbzPBdXCR2KAcVrYEBdlNUYgfYtLg5ye4VwNuM" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-++++
---
 
 [%notitle.columns.is-vcentered]
-=== Quiz time!
+=== How to obtain remote changes
 
 [.column.is-half]
 --
 ++++
-<iframe src="https://directpoll.com/v?XDVhEtZqP58g7WqzFE1GPx9xVzgEi" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- Vote link -->
+<iframe src="http://etc.ch/mhRW" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ++++
 --
 
 [.column.is-half]
 --
 ++++
-<iframe src="https://directpoll.com/r?XDbzPBdYDS3LBdWsZFCemOVZhgZuMh6zf5WxOvN
-" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- Results link -->
+<iframe src="https://directpoll.com/r?XDbzPBd3ixYqg8xm57xSGZBxUZ3WqPrMv7uMkAbJjB" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ++++
 --
 
@@ -97,36 +82,20 @@ When you are done with a feature, **merge** the branch back with main
 
 
 [%notitle.columns.is-vcentered]
-=== Quiz time!
+=== How to merge two branches
 
 [.column.is-half]
 --
 ++++
-<iframe src="https://directpoll.com/v?XDVhEtZqP58g7WqzFE1GPx9xVzgEi" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-++++
---
-
-[.column.is-half]
---
-++++
-<iframe src="https://directpoll.com/r?XDbzPBdZET4MCeXtaGDfnPWaihavNi70g6XyPwO" width="1200"
-height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-++++
---
-
-[%notitle.columns.is-vcentered]
-=== Quiz time!
-
-[.column.is-half]
---
-++++
-<iframe src="https://directpoll.com/v?XDVhEtZqP58g7WqzFE1GPx9xVzgEi" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- Vote link -->
+<iframe src="http://etc.ch/mhRW" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ++++
 --
 
 [.column.is-half]
 --
 ++++
-<iframe src="https://directpoll.com/r?XDbzPBdaFU5NDfYubHEgoQXbjibwOj81h7YzQxP" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- Results link -->
+<iframe src="https://directpoll.com/r?XDbzPBd3ixYqg8xm57xSGZBxUZ3WqPrMv7uMkAbJjB" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ++++
 --

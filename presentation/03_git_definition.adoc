@@ -14,19 +14,21 @@ Managers of remote repositories::
 --
 
 [%notitle.columns.is-vcentered]
-=== Did you know??!
+=== Git origin
 
 [.column.is-half]
 --
 ++++
-<iframe src="https://directpoll.com/v?XDVhEtZqP58g7WqzFE1GPx9xVzgEi" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- Vote link -->
+<iframe src="http://etc.ch/mhRW" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ++++
 --
 
 [.column.is-half]
 --
 ++++
-<iframe src="https://directpoll.com/r?XDbzPBdWBQ1J9bUqXDAckMTXfeXsKf4xd3UvMtL" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- Results link -->
+<iframe src="https://directpoll.com/r?XDbzPBd3ixYqg8xm57xSGZBxUZ3WqPrMv7uMkAbJjB" width="1200" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ++++
 --
 
